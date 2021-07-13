@@ -15,7 +15,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1uA64OcVjMXa5gD3ARfHF8bmfHn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -56,10 +60,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="100" y="100" width="1400" height="660" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1624621358170" />
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1626154384642">
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1626174669967">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1626154384642" />
+    <state x="495" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1626174669967" />
     <state x="463" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1624621262870">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
